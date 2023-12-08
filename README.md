@@ -1,7 +1,7 @@
 # HydraGame
 
 Welcome!
-This repository contains the contents of the HydraGame project written by Daniel Akbarzadeh.
+This repository contains the contents of the HydraGame project written by Daniel Akbarzadeh, made as part of a project for one of my courses at UW.
 
 ---
 ### Project Files
